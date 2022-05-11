@@ -1,0 +1,7 @@
+Tiene que crear una carpeta en disco c llamada "ngrok"
+y ahí copiar el archivo .exe que va a descargar
+
+https://ngrok.com/download
+
+ejecutar según lo visto en el video
+en su linea de comando: .\ngrok http 8000

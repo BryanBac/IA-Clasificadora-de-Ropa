@@ -1,0 +1,19 @@
+body {
+  background-color: lightblue;
+}
+#canvas {
+  display: flex;
+  justify-content: center;
+}
+#pre{
+  display: flex;
+  justify-content: center;
+  color: white;
+  display: block;
+  padding: 25px;
+  text-decoration: none;
+  background: black;
+}
+#pre:hover {
+  background: goldenrod;
+}
